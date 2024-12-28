@@ -1,0 +1,10 @@
+{
+	"name": "GinMod",
+	"version_number": "1.0.3",
+	"website_url": "",
+	"description": "adds Gin as a survivor to the game, feel free to use as a reference.",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.45",
+		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.2.8"
+	]
+}

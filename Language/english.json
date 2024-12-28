@@ -1,0 +1,33 @@
+{
+	"skill" : {
+		"GinZ" : {
+			"name" : "Wet Slap",
+			"description" : "Why are your hands wet? <y>15% damage</c> per hit.</c>"
+		},
+		"GinX" : {
+			"name" : "Fling Dirt",
+			"description" : "Fling dirt from the ground dealing <y>30% damage</c> per dirt-chunk flung. more dirt per level-up."
+        },
+        "GinC" : {
+			"name" : "Panic!",
+			"description" : "Panic and run away as fast as your little legs can move you. You're invulnerable while panicking"
+		},
+		"GinV" : {
+			"name" : "Cry",
+			"description" : "Break down and cry while pleading incoherently.\n Enemies will recieve a <b>fear</c> debuff from the uncomfortable situation.</c>"
+		}
+	},
+
+	"survivor" : {
+		"Gin" : {
+			"endQuote" : "..and so he barely left, mashing buttons as he's unsure of how to operate the ship's controls.",
+			"description" : "<y>Gin</c> is a short robot wearing ninja pajamas, he quite literally has no idea what he is doing here. Gin has no fantastical attributes to note, and is <y>shorter</c> than most enemies at a height of 3' or 91.4cm tall.",
+			"name" :  "Gin",
+			"nameUpper" : "GIN",
+			"story" : "???",
+            "id" : "???",
+            "departure"  : "???",
+            "arrival" : "???"
+		}
+	}
+}
